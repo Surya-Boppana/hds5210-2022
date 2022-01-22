@@ -1,0 +1,10 @@
+Commands to push changes to git repo;
+
+git remote set-url origin https://github.com/Surya-Boppana/hds5210-2022.git  
+
+Git add {file name}
+
+Git commit -m {comment}
+
+Git push
+	
